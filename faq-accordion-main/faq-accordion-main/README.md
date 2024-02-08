@@ -29,7 +29,7 @@ Users should be able to:
 
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [github](https://github.com/reemalnaji/faq-accordion-main)
 - Live Site URL: [netlify](https://faqaccordion-main.netlify.app/)
 
 
