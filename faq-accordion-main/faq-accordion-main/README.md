@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](![faq-accordion-main](https://github.com/reemalnaji/faq-accordion-main/assets/74336506/b9b57b2d-a973-427d-bc5d-6408a3326b75))
-
+![desktop](./faq-accordion-main.png)
+![mobile] (./mobile-faq-accordion.png)
 
 ### Links
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
